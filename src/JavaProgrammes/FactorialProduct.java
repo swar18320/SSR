@@ -9,6 +9,7 @@ public class FactorialProduct {
 		{
 			fact=fact*i;
 			//Hii
+			//i am.
 			
 		}
 		System.out.println(fact);
