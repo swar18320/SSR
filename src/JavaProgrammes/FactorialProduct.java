@@ -8,6 +8,7 @@ public class FactorialProduct {
 		for(int i=1;i<=4;i++)
 		{
 			fact=fact*i;
+			//Hii
 			
 		}
 		System.out.println(fact);
