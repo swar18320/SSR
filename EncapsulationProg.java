@@ -18,5 +18,6 @@ public class EncapsulationProg {
 		z.getSalary();
 		
 	}
+	//hii
 
 }
